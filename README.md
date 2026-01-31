@@ -1,4 +1,5 @@
-# DeepLearning-Handwritten_Digits_Recognition
+# DeepLearning:
+## Handwritten Digits Recognition
 
 ## Project Overview
 This project demonstrates handwritten digit recognition using the MNIST dataset, comparing two approaches: a traditional neural network and a Convolutional Neural Network (CNN).
